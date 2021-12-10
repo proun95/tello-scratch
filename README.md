@@ -19,7 +19,7 @@
 11. You are ready to fly.
 
 ### Problems
-If your aircraft don't does not respond, check:
+If your aircraft does not respond, check:
 1. wi-fi connect to aircraft
 2. You don't see 🔴. 
 3. Terminal is launching and script is executing.
