@@ -15,7 +15,7 @@
         [" ", "flip %m.flip", "flip", "f"],
         [" ", "set speed to %n cm/s", "speed", 50],
         [" ", "fly to x %n cm y %n cm z %n cm with speed %n cm/s", "go", 50, 50, 0, 50],
-		[" ", "fly on x: %n, по y: %n, по z: %n, yaw: %n", "rc", 10, 0, 0, 0],
+		[" ", "fly on x: %n, по y: %n, по z: %n, yaw: %n", "rc", 0, 0, 0, 0],
 // SDK VERSION >= 1.3.0.0
         [" ", "fly a curve via x1 %n cm y1 %n cm z1 %n cm to x2 %n cm y2 %n cm z2 %n cm speed %n cm/s", "curve", 20, 20, 0, 60, 40, 0, 60],
         [" ", "emergency stop", "emergency"],
