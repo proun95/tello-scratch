@@ -73,7 +73,7 @@ let sendCmd = function (cmd)
 	{
 		return
 	}
-	if (blockCmd.indexOf(cmd) >= 0) 
+	if (blockCmd.indexOf(cmd) >= 0 || blockCmd.indexOf(cmd.slice(0, 2)) >= 0) 
 	{
 		sendMethod(cmd);
 		order = [];
