@@ -9,7 +9,7 @@
 1. Visit https://scratch.mit.edu/download and download the Scratch 2.0 Offline Editor.
 2. Download and install node.js from https://nodejs.org/en/.
 3. Don't forget to restart your computer.
-4. Open the terminal, go to the file directory 'js' and execute ```node tello.js```. Note: Don't close the terminal while coding and launching.
+4. Open the terminal, go to the file directory 'js' and execute ```node tello.js``` (or just open start_tello.bat). Note: Don't close the terminal while coding and launching.
 5. Open Scratch 2.0, hold the “Shift” key, click the “File” menu, click "Import Experimental HTTP Extension," and select .s2e" file from blocks folder for your language.
 6. The Tello interface will be shown in Scratch under "More Blocks".
 7. You should see 🟢 then everything is working correctly. 
